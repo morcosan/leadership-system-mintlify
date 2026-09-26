@@ -38,5 +38,5 @@ h3 {
 
 /* Increase bottom spacing for sidebar */
 #sidebar-content [data-has-overflow-y][tabindex] {
-  padding-bottom: calc(var(--spacing) * 8) !important;
+  padding-bottom: calc(var(--spacing) * 12) !important;
 }

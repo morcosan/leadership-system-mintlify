@@ -2,6 +2,6 @@
 @media (min-width: 1024px) {
   #content-area {
     max-width: 100% !important;
-    width: 100%;
+    margin: 0 !important;
   }
 }

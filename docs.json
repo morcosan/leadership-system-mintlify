@@ -46,9 +46,5 @@
     "color": {
       "dark": "#2C292E"
     }
-  },
-  "banner": {
-    "content": "Note: This is demo content for a fictional SaaS company.",
-    "type": "info"
   }
 }

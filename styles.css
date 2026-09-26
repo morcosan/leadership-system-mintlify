@@ -9,6 +9,7 @@
     max-width: 100% !important;
     margin: 0 !important;
     padding-left: calc(var(--spacing) * 10) !important;
+    padding-right: 0 !important;
   }
 }
 

@@ -3,13 +3,13 @@
   "theme": "luma",
   "name": "Leadership System",
   "colors": {
-    "primary": "#352893",
+    "primary": "#344CBA",
     "light": "#344CBA",
-    "dark": "#2B268B"
+    "dark": "#344CBA"
   },
   "favicon": {
-    "light": "/images/favicon.svg",
-    "dark": "/images/favicon.svg"
+    "light": "/images/logo.svg",
+    "dark": "/images/logo.svg"
   },
   "navigation": {
     "pages": [

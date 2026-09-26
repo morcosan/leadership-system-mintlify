@@ -24,3 +24,9 @@ h2 {
 .prose {
   font-size: var(--text-base);
 }
+
+/* Make bullet margin smaller */
+.prose li {
+  margin-top: 0.3em !important;
+  margin-bottom: 0.3em !important;
+}

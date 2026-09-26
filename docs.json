@@ -49,6 +49,6 @@
   },
   "banner": {
     "content": "Note: This is demo content for a fictional SaaS company.",
-    "type": "warning"
+    "type": "info"
   }
 }

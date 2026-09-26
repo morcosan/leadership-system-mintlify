@@ -13,3 +13,7 @@ h2 {
     margin-top: 1em !important;
   }
 }
+
+:root {
+  --text-base: 0.9375rem !important;
+}

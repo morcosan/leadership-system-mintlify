@@ -3,7 +3,7 @@
   "theme": "luma",
   "name": "Leadership System",
   "colors": {
-    "primary": "#FDD835",
+    "primary": "#344CBA",
     "light": "#344CBA",
     "dark": "#344CBA"
   },
@@ -43,7 +43,6 @@
   "navbar": {
   },
   "background": {
-    "decoration": "gradient",
     "color": {
       "dark": "#2C292E"
     }

@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "maple",
+  "theme": "luma",
   "name": "Leadership System",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#352893",
+    "light": "#344CBA",
+    "dark": "#2B268B"
   },
   "favicon": {
     "light": "/images/favicon.svg",

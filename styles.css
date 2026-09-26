@@ -30,8 +30,13 @@ h3 {
   font-size: var(--text-base);
 }
 
-/* Make bullet margin smaller */
+/* Decrease spacing for bullets */
 .prose li {
   margin-top: 0.3em !important;
   margin-bottom: 0.3em !important;
+}
+
+/* Increase bottom spacing for sidebar */
+#sidebar-content [data-has-overflow-y] {
+  padding-bottom: calc(var(--spacing) * 6) !important;
 }

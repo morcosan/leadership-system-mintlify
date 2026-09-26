@@ -1,0 +1,7 @@
+/* Make the main content area full width on large screens */
+@media (min-width: 1024px) {
+  #content-area {
+    max-width: 100% !important;
+    width: 100%;
+  }
+}

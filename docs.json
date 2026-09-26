@@ -33,6 +33,26 @@
           "types-of-boundaries",
           "cognitive-biases"
         ]
+      },
+      {
+        "group": "Communication",
+        "pages": [
+          "communication-styles",
+          "active-listening",
+          "types-of-feedback",
+          "appreciation-styles",
+          "apology-styles"
+        ]
+      },
+      {
+        "group": "Coordination",
+        "pages": [
+          "leadership-styles",
+          "followership-styles",
+          "sources-of-power",
+          "supportive-roles",
+          "decision-making"
+        ]
       }
     ]
   },

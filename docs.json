@@ -51,8 +51,25 @@
           "followership-styles",
           "sources-of-power",
           "supportive-roles",
-          "decision-making"
+          "decision-making",
+          "types-of-decisions"
         ]
+      },
+      {
+        "group": "Culture",
+        "pages": []
+      },
+      {
+        "group": "Diversity",
+        "pages": []
+      },
+      {
+        "group": "Maturity",
+        "pages": []
+      },
+      {
+        "group": "Change",
+        "pages": []
       }
     ]
   },

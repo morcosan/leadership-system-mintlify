@@ -80,8 +80,8 @@
     ]
   },
   "logo": {
-    "light": "/images/logo.svg",
-    "dark": "/images/logo.svg"
+    "light": "/images/logo-with-text.svg",
+    "dark": "/images/logo-with-text.svg"
   },
   "navbar": {
   },

@@ -47,7 +47,8 @@
       {
         "group": "Resources",
         "pages": [
-          "energy-dimensions"
+          "energy-dimensions",
+          "sources-of-power"
         ]
       },
       {
@@ -55,7 +56,6 @@
         "pages": [
           "leadership-styles",
           "followership-styles",
-          "sources-of-power",
           "supportive-roles",
           "decision-making",
           "types-of-decisions"

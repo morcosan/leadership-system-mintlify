@@ -45,6 +45,12 @@
         ]
       },
       {
+        "group": "Resources",
+        "pages": [
+          "energy-dimensions"
+        ]
+      },
+      {
         "group": "Coordination",
         "pages": [
           "leadership-styles",

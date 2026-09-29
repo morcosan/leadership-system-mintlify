@@ -37,18 +37,12 @@
       {
         "group": "Communication",
         "pages": [
+          "communication-layers",
           "communication-styles",
           "active-listening",
           "types-of-feedback",
           "appreciation-styles",
           "apology-styles"
-        ]
-      },
-      {
-        "group": "Resources",
-        "pages": [
-          "energy-dimensions",
-          "sources-of-power"
         ]
       },
       {
@@ -60,6 +54,13 @@
           "decision-making",
           "decision-making-styles",
           "types-of-decisions"
+        ]
+      },
+      {
+        "group": "Resources",
+        "pages": [
+          "energy-dimensions",
+          "sources-of-power"
         ]
       },
       {

@@ -41,3 +41,11 @@
 #sidebar-content [data-has-overflow-y][tabindex] {
   padding-bottom: calc(var(--spacing) * 12) !important;
 }
+
+/* Hide all card icons */
+[data-component-part="card-icon"] {
+  display: none !important;
+}
+[data-component-part="card-title"] {
+  margin-top: 0 !important;
+}
